@@ -1,0 +1,35 @@
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+D:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+E:\Nitya\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+D:\Nitya\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\nitve\OneDrive\Nitya\Nitya- School\CompSci\Comp30\UNIT 2\AdventureGame git\AdventureGame\obj\Debug\AdventureGame.pdb
