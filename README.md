@@ -1,7 +1,7 @@
 # AdventureGame- Nitya
 Adventure Game, A simple C# console adventure game where the player explores rooms, collects items, and tries to reach the prince.
 
----
+--- 
 
 # Features
 - Multiple rooms with unique descriptions    
